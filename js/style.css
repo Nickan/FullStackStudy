@@ -57,5 +57,10 @@ body {
     font-size: 80%;
 }
 
+#div_register {
+    position: relative;
+    left: 59%;
+    top: 10%;
+}
 
 
