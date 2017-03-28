@@ -1,0 +1,41 @@
+div {
+    display: block;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 100vw;
+    height: 100vh;
+}
+
+#header {
+    width: 100%;
+    height: 15%;
+    background: #564B92;
+}
+
+#middle {
+    width: 100%;
+    height: 70%;
+    background: #E0DDEF;
+}
+
+#bottom {
+    width: 100%;
+    height: 15%;
+}
+
+#div_facebook_text {
+    position: relative;
+    left: 10%;
+    top: 50%;
+}
+
+#facebook_text {
+    color: #FFFFFF;
+    font-size: 200%;
+}
